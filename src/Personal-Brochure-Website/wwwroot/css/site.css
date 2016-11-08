@@ -36,3 +36,19 @@ textarea {
     display: none
   }
 }
+
+.img-bio-left{
+    padding: 3rem 2rem 2rem 0rem;
+    float: left;
+    height: 50vh;
+}
+
+.parallax-container{
+    height: 80vh;
+}
+
+#myCarousel img{
+    height:80vh;
+    width: 100vw;
+}
+
